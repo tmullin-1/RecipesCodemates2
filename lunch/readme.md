@@ -1,21 +1,27 @@
-# Replace with recipe name
+# Terry's Sandwhich of Doom
 
-## Servings: 
+## Servings: 6
 
-## Time to prepare: 
+## Time to prepare: 10 minutes
 
-## Ingredients:
+## Ingredients: Pumpkin, Pumkin Seeds, Whisky, Dynamite (1LB)
 
 
-## Equipment needed:
+## Equipment needed: Detonator
 
 
 ## Steps for preparation:
+1) Cut and hollow out the pumpkin
+2) insert dyanmite
+3) Drink as much whisky as desired
+4) Connect Detonator
+5) Press Detonator Button
+6) Profit
 
 
 
-### Notes:
+### Notes: Fun for the whole family!
 
 
 
-### Codemates #
+### Codemates # N/A
